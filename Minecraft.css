@@ -1,0 +1,17 @@
+body {
+  background: darkblue;
+}
+p {
+  color: forestgreen;
+}
+h1 {
+  font-weight:400px;
+  font-family:monospace;
+}
+
+h2 { 
+  color:aquamarine;
+    border-style:dashed;
+  border-color:black;
+}
+    
