@@ -1,14 +1,14 @@
 body {
-  background: black;
+  background:green;
 }
 p {
   color: blue;
-  text-align: center;
+  text-align:right;
 }
 h1 {
   font-weight: bold;
   color:firebrick;
-  text-align: center;
+  text-align:right;
   
 }
 
@@ -17,10 +17,10 @@ h3 {
 color: darkblue;
   
 font-weight:bold;
-  text-align: center;
+  text-align:right;
 }
 
 img { 
   
 align-self:center;
-  
+}
