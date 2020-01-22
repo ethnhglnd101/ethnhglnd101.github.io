@@ -1,0 +1,26 @@
+body {
+  background: black;
+}
+p {
+  color: blue;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  color:firebrick;
+  text-align: center;
+  
+}
+
+h3 {
+  
+color: darkblue;
+  
+font-weight:bold;
+  text-align: center;
+}
+
+img { 
+  
+align-self:center;
+  
